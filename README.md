@@ -1,14 +1,19 @@
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9ACF2B&background=FFFFFF00&random=false&width=1000&lines=hellooo%F0%9F%91%8B%F0%9F%8F%BB!+It's+me+Farah+Saiza;You're+welcome+in+my+profile%F0%9F%A4%97;Hope+you+enjoy+it%F0%9F%99%8C%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farahsaiza&label=Profile%20views&color=0e75b6&style=flat" alt="farahsaiza" /> </p>
+
+
+
+
+
 
 - 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **farahsaiza@gmail.com**
+
+- I'ma first year devolopment student, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
