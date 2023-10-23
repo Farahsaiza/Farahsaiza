@@ -1,45 +1,33 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9ACF2B&background=FFFFFF00&random=false&width=1000&lines=hellooo%F0%9F%91%8B%F0%9F%8F%BB!+It's+me+Farah+Saiza;You're+welcome+in+my+profile%F0%9F%A4%97;Hope+you+enjoy+it%F0%9F%99%8C%F0%9F%8F%BB)](https://git.io/typing-svg)
+<img align="left" src="https://static.wixstatic.com/media/447fe1_a13d59e79b7f426ab8e5aadbb818eb50~mv2.gif" height="100" width="100">  
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Courier+Prime&size=32&pause=1&color=FFD700&center=true&vCenter=true&multiline=true&random=true&width=715&height=100&lines=Hello+I'm+Farah+Saiza+✨" alt="Typing SVG" align="center" /></a>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Courier+Prime&size=32&pause=1&color=FFD700&center=true&vCenter=true&multiline=true&random=true&width=715&height=100&lines=welcome+to+my+own+Space+🚀" alt="Typing SVG" align="left" /></a>
+<img align="right" src="https://static.wixstatic.com/media/447fe1_a13d59e79b7f426ab8e5aadbb818eb50~mv2.gif" height="100" width="100">  
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&pause=1&color=FF8C00&vCenter=false&multiline=true&repeat=false&random=false&width=1225&height=40&lines=👩🏻‍🚀+:+Who+am+I+:" alt="Typing SVG" /></a>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif">
-
-
-
-
-
-
-
-
-- 🌱 I’m currently learning **python**
-
-- 📫 How to reach me **farahsaiza@gmail.com**
-
-- I'ma first year devolopment student, 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/farouha farah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farouha farah" height="30" width="40" /></a>
-<a href="https://instagram.com/farah_16aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farah_16aa" height="30" width="40" /></a>
+ <p >
+ <font face="verdana" color="#FFFFE0"  size="2">
+        Hello everyone! Welcome to my little world ✨ I'm farah saiza and I'm 21 years old. Since I was young, I've been fascinated by astronomy and I always wished for a planet for myself, and finally I found it in cooding. 
+        That's why I'm now in the process of reconstructing this planet and transforming it from a small planet into a vast world. 
+        Yuuup, I'm still a beginner in this field and I'm still practicing simple exercises, but whoever works hard will definitely achieve it.
+        So welcome again and I hope you like my GitHub profile 
+</font> 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farahsaiza&show_icons=true&locale=en&layout=compact" alt="farahsaiza" /></p>
+<a href="https://git.io/typing-svg"></a><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&pause=1&color=FF8C00&vCenter=false&multiline=true&repeat=false&random=false&width=1225&height=40&lines=👩🏻‍🚀+:+languages+and+Tools+:" alt="Typing SVG" /></a>
+    
+ <p align="left"> 
+       
+  <br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><font face="verdana" color="#FFFFE0"  size="2"> : Easy and fun, but it requires some creativity </font>
+        <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><font face="verdana" color="#FFFFE0"  size="2"> : Easy and fun  and it requires lot of creativity</font>
+    </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farahsaiza&show_icons=true&locale=en" alt="farahsaiza" /></p>
-
-
-<!--
-**Farahsaiza/Farahsaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <a href="https://git.io/typing-svg"></a><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&pause=1&color=FF8C00&vCenter=false&multiline=true&repeat=false&random=false&width=1225&height=40&lines=👩🏻‍🚀+:+connect+with+me+:" alt="Typing SVG" /></a>
+    <p align="left">
+    <a href="https://fb.com/farouha farah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farouha farah" height="30" width="40" /></a>
+        <br>
+        <br>
+   <a href="https://instagram.com/farah_16aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farah_16aa" height="30" width="40" /></a>
+ 
