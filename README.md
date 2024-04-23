@@ -19,11 +19,15 @@
  <p align="left"> 
        
   <br>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><font face="verdana" color="#FFFFE0"  size="2"> : I'm still new to this language but it seems like fun </font>
+  <br>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="center" height="57"> <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png" align="center" height="60"><img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" align="center" height="45"> <img src="https://img.icons8.com/color/64/null/html-5--v1.png" align="center" height="57"> <img src="https://pngicon.ru/file/uploads/css3-256x256.png" align="center" height="45"> <img src="http://pluspng.com/img-png/bootstrap-logo-vector-png-bem-with-bootstrap-bootstrap-logo-1024.png" align="center" height="50"> <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" align="center" height="50">
+</div><br>
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><font face="verdana" color="#FFFFE0"  size="2"> : I'm still new to this language but it seems like fun </font>
         <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><font face="verdana" color="#FFFFE0"  size="2"> : Easy and fun  and it requires lot of creativity</font>
     </p>
-
+ -->
  <a href="https://git.io/typing-svg"></a><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&pause=1&color=FF8C00&vCenter=false&multiline=true&repeat=false&random=false&width=1225&height=40&lines=👩🏻‍🚀+:+connect+with+me+:" alt="Typing SVG" /></a>
     <p align="left">
     <a href="https://fb.com/farouha farah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farouha farah" height="30" width="40" /></a>
