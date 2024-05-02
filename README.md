@@ -31,7 +31,7 @@
     <p align="center">
     <a href="https://fb.com/farouha farah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farouha farah" height="30" width="40" /></a>
    <a href="https://instagram.com/farah_16aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farah_16aa" height="30" width="40"  /></a>
-         <\p>
+        
            <br>
            <br>
            <a href="https://git.io/typing-svg"></a><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&pause=1&color=FF8C00&vCenter=false&multiline=true&repeat=false&random=false&width=1225&height=40&lines=👩🏻‍🚀+:+My+Stats+:" alt="Typing SVG" /></a>
