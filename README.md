@@ -34,7 +34,7 @@
         
            <br>
            <br>
-           <a href="https://git.io/typing-svg"></a><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&pause=1&color=FF8C00&vCenter=false&multiline=true&repeat=false&random=false&width=1225&height=40&lines=👩🏻‍🚀+:+My+Stats+:" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"></a><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=30&pause=1&color=FF8C00&vCenter=false&multiline=true&repeat=false&random=false&width=1225&height=40&lines=👩🏻‍🚀+:+My+Stats+:" alt="Typing SVG" /></a>
            
 
    <p>
