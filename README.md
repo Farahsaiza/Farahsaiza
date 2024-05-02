@@ -35,9 +35,9 @@
    <a href="https://instagram.com/farah_16aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="farah_16aa" height="30" width="40" /></a>
 
    <p>
-  <a href="https://github-readme-stats.vercel.app/api?username=Farahsaiza&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true"><img alt="Farahsaiza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Farahsaiza&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true"/></a>
-  <a href="https://github-readme-stats.vercel.app/api?username=Farahsaiza&show_icons=true&theme=blue_navy&hide_border=true"><img alt="Farahsaiza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Farahsaiza&show_icons=true&theme=blue_navy&hide_border=true"/></a>
+<!--   <a href="https://github-readme-stats.vercel.app/api?username=Farahsaiza&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true"><img alt="Farahsaiza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Farahsaiza&show_icons=true&include_all_commits=true&theme=blue_navy&hide_border=true"/></a> -->
+  <a href="https://github-readme-stats.vercel.app/api?username=Farahsaiza&show_icons=true&theme=yellow&hide_border=true"><img alt="Farahsaiza's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Farahsaiza&show_icons=true&theme=yellow&hide_border=true"/></a>
   <br>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Farahsaiza&layout=donut&theme=blue_navy&hide_border=true&hide_progress=false"><img alt="Farahsaiza's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farahsaiza&layout=donut&theme=blue_navy&hide_border=true&hide_progress=false"/></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Farahsaiza&layout=donut&theme=yellow&hide_border=true&hide_progress=false"><img alt="Farahsaiza's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farahsaiza&layout=donut&theme=yellow&hide_border=true&hide_progress=false"/></a>
 </p>
  
