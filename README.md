@@ -1,6 +1,8 @@
 <img align="left" src="https://static.wixstatic.com/media/447fe1_a13d59e79b7f426ab8e5aadbb818eb50~mv2.gif" height="100" width="100">  
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Courier+Prime&size=32&pause=1&color=FFD700&center=true&vCenter=true&multiline=true&random=true&width=715&height=100&lines=Hello+I'm+Farah+Saiza+✨" alt="Typing SVG" align="center" /></a>
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?    font=Courier+Prime&size=32&pause=1&color=FFD700&center=true&vCenter=true&multiline=true&random=true&width=715&height=100&lines=welcome+to+my+own+Space+🚀" alt="Typing SVG" align="left" /></a>
+<br>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Farahsaiza&label=Profile%20views&color=ffff00&style=flat" alt="Farahsaiza" /> </p>
 
 <img align="right" src="https://static.wixstatic.com/media/447fe1_a13d59e79b7f426ab8e5aadbb818eb50~mv2.gif" height="100" width="100">  
